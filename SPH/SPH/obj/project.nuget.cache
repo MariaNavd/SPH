@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "/t5+BZx+jgAy5hMQrx4PNn3nmyQev1GZmICSwnvtJBuzpEKfzS6/OWq8extjBaXjFD80StS+j3QsQ7ukpeBFHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.navdaeva\\Documents\\SPH\\SPH\\SPH\\SPH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.navdaeva\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\m.navdaeva\\.nuget\\packages\\opentk\\3.3.3\\opentk.3.3.3.nupkg.sha512",
+    "C:\\Users\\m.navdaeva\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"OpenTK 3.3.3\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
